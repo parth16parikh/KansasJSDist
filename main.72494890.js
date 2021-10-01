@@ -442,4 +442,3 @@ var game = new Phaser.Game({
   }
 });
 },{"./Scene/LoadScene":"vu3y","./Scene/MenuScene":"ytE1","./Scene/NameScene":"JCWi"}]},{},["HJDO"], null)
-//# sourceMappingURL=/main.72494890.js.map
