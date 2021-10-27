@@ -1,0 +1,265 @@
+
+Boy.png
+size: 636,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt
+  rotate: false
+  xy: 517, 144
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 426, 145
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 2, 4
+  size: 138, 141
+  orig: 138, 141
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 225, 77
+  size: 193, 199
+  orig: 193, 199
+  offset: 0, 0
+  index: -1
+L_Blink_1
+  rotate: false
+  xy: 319, 9
+  size: 28, 28
+  orig: 28, 29
+  offset: 0, 1
+  index: -1
+L_Blink_2
+  rotate: false
+  xy: 142, 2
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+L_Blink_3
+  rotate: false
+  xy: 583, 144
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+L_Blink_4
+  rotate: true
+  xy: 600, 166
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+L_Brow
+  rotate: false
+  xy: 201, 88
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+L_Eyeball
+  rotate: false
+  xy: 349, 11
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 516, 96
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+L_Hi
+  rotate: false
+  xy: 426, 24
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 388, 27
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+L_Shoes
+  rotate: false
+  xy: 517, 214
+  size: 91, 56
+  orig: 91, 56
+  offset: 0, 0
+  index: -1
+L_Short
+  rotate: true
+  xy: 517, 170
+  size: 42, 81
+  orig: 47, 89
+  offset: 3, 8
+  index: -1
+L_Short_2
+  rotate: false
+  xy: 252, 33
+  size: 46, 42
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+L_Sleeve
+  rotate: true
+  xy: 487, 2
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+L_White
+  rotate: true
+  xy: 252, 2
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+L_Wrist
+  rotate: false
+  xy: 204, 28
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 142, 21
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 582, 51
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+O
+  rotate: true
+  xy: 173, 5
+  size: 14, 21
+  orig: 16, 21
+  offset: 2, 0
+  index: -1
+R_Blink_1
+  rotate: true
+  xy: 603, 8
+  size: 41, 23
+  orig: 41, 24
+  offset: 0, 1
+  index: -1
+R_Blink_2
+  rotate: true
+  xy: 201, 104
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+R_Blink_3
+  rotate: false
+  xy: 204, 2
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+R_Blink_4
+  rotate: false
+  xy: 300, 39
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+R_Brow
+  rotate: false
+  xy: 388, 52
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+R_Eyeball
+  rotate: true
+  xy: 286, 2
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 610, 198
+  size: 24, 72
+  orig: 24, 72
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 487, 58
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+R_Shoes
+  rotate: false
+  xy: 426, 85
+  size: 88, 58
+  orig: 88, 58
+  offset: 0, 0
+  index: -1
+R_Short
+  rotate: false
+  xy: 142, 47
+  size: 57, 98
+  orig: 65, 105
+  offset: 8, 7
+  index: -1
+R_Short_2
+  rotate: true
+  xy: 582, 88
+  size: 54, 49
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+R_Sleeve
+  rotate: true
+  xy: 516, 49
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+R_White
+  rotate: false
+  xy: 344, 39
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+R_Wrist
+  rotate: true
+  xy: 547, 2
+  size: 45, 54
+  orig: 46, 54
+  offset: 1, 0
+  index: -1
+shadow copy
+  rotate: false
+  xy: 2, 147
+  size: 221, 123
+  orig: 250, 145
+  offset: 13, 11
+  index: -1
