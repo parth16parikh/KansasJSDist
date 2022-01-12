@@ -1,0 +1,537 @@
+{
+"skeleton": {
+	"hash": "C23CGSt+zkG/iMjapT8URE7DJRE",
+	"spine": "3.8.99",
+	"x": -81.5,
+	"y": 25,
+	"width": 156.48,
+	"height": 243,
+	"images": "./images/",
+	"audio": "F:/Trusha/1. TimeLoop/11 Kansas/Buildings"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Building", "parent": "root", "length": 93.68, "rotation": 91.42, "x": 0.64, "y": 49.15 },
+	{ "name": "L_Pupil", "parent": "Building", "x": 67.2, "y": 9.38 },
+	{ "name": "R_Pupil", "parent": "Building", "x": 65.52, "y": -13.9 },
+	{ "name": "paw 2", "parent": "root", "x": 53.75, "y": 66.16 },
+	{ "name": "Wreck/ball", "parent": "Building", "length": 7.04, "rotation": 178.39, "x": 202.96, "y": -62.14 },
+	{ "name": "Wreck/ball3", "parent": "Wreck/ball", "length": 7.04, "x": 7.04 },
+	{ "name": "Wreck/ball4", "parent": "Wreck/ball3", "length": 7.04, "x": 7.04 },
+	{ "name": "Wreck/ball5", "parent": "Wreck/ball4", "length": 7.04, "x": 7.04 },
+	{ "name": "Wreck/ball6", "parent": "Wreck/ball5", "length": 7.04, "x": 7.04 },
+	{ "name": "Wreck/ball7", "parent": "Wreck/ball6", "length": 7.04, "x": 7.04 },
+	{ "name": "Wreck/ball8", "parent": "Wreck/ball7", "length": 7.04, "x": 7.04 },
+	{ "name": "Wreck/ball9", "parent": "Wreck/ball8", "length": 7.04, "x": 7.04 },
+	{ "name": "Wreck/ball10", "parent": "Wreck/ball9", "length": 7.04, "x": 7.04 },
+	{ "name": "Wreck/ball11", "parent": "Wreck/ball10", "length": 7.04, "x": 7.04 },
+	{ "name": "Wreck/ball2", "parent": "Wreck/ball11", "length": 36.65, "rotation": -0.18, "x": 7.04 }
+],
+"slots": [
+	{ "name": "Building", "bone": "Building", "attachment": "Building" },
+	{ "name": "House_Light", "bone": "Building", "attachment": "House_Light" },
+	{ "name": "Purple_belt", "bone": "Building", "dark": "000000", "attachment": "Purple_belt" },
+	{ "name": "burger top", "bone": "Building", "attachment": "burger top" },
+	{ "name": "paw 2", "bone": "paw 2", "attachment": "paw 2" },
+	{ "name": "paw 1", "bone": "Building", "attachment": "paw 1" },
+	{ "name": "Pet_Light", "bone": "Building" },
+	{ "name": "R_Pupil", "bone": "R_Pupil", "attachment": "R_Pupil" },
+	{ "name": "L_Pupil", "bone": "L_Pupil", "attachment": "L_Pupil" },
+	{ "name": "Name", "bone": "Building" },
+	{ "name": "Guitar", "bone": "Building" },
+	{ "name": "speaker", "bone": "Building", "attachment": "speaker" },
+	{ "name": "Icecream_Light", "bone": "Building", "color": "fff542ff", "dark": "832900", "attachment": "Icecream_Light" },
+	{ "name": "Name back", "bone": "Building", "color": "691c1bff", "attachment": "Chinese/Name back" },
+	{ "name": "Name Chinese", "bone": "Building", "color": "ffc429ff", "attachment": "Chinese/Name" },
+	{ "name": "Wreck/ball", "bone": "Wreck/ball", "attachment": "ball" },
+	{ "name": "Wreck/Wreck", "bone": "Building", "attachment": "Wreck" }
+],
+"skins": [
+	{
+		"name": "Burger_House",
+		"attachments": {
+			"Building": {
+				"Building": { "name": "Burger_House/Building", "x": 64.91, "y": -0.47, "rotation": -91.42, "width": 215, "height": 199 }
+			},
+			"Purple_belt": {
+				"Purple_belt": { "name": "Burger_House/Purple_belt", "x": 120.12, "y": -3.84, "rotation": -91.42, "width": 165, "height": 86 }
+			},
+			"burger top": {
+				"burger top": { "name": "Burger_House/burger top", "x": 171.02, "y": -3.1, "rotation": -91.42, "width": 181, "height": 149 }
+			}
+		}
+	},
+	{
+		"name": "Chinese_Stall",
+		"attachments": {
+			"Building": {
+				"Building": { "name": "Chinese/Building", "x": 93.13, "y": -3.62, "rotation": -91.42, "width": 297, "height": 219 }
+			},
+			"Name Chinese": {
+				"Chinese/Name": { "x": 111.96, "y": 13.87, "rotation": -91.42, "width": 113, "height": 23 }
+			},
+			"Name back": {
+				"Chinese/Name back": { "x": 111.96, "y": 13.87, "rotation": -91.42, "width": 116, "height": 26 }
+			}
+		}
+	},
+	{
+		"name": "Construction",
+		"attachments": {
+			"Wreck/Wreck": {
+				"Wreck": { "name": "Wreck/Wreck", "x": 97.45, "y": 3.23, "rotation": -91.42, "width": 153, "height": 243 }
+			},
+			"Wreck/ball": {
+				"ball": {
+					"name": "Wreck/ball",
+					"type": "mesh",
+					"uvs": [ 0.44806, 0.02624, 0.57362, 0.02588, 1, 0.66944, 1, 1, 0, 1, 0, 0.6727, 0.43273, 0.66155, 0.61, 0.66156, 0.44732, 0.05184, 0.57566, 0.05184, 0.44593, 0.08606, 0.57426, 0.08606, 0.4426, 0.11633, 0.57426, 0.11633, 0.44593, 0.13903, 0.56927, 0.13903, 0.4476, 0.16876, 0.5676, 0.16876, 0.45435, 0.20574, 0.56824, 0.20574, 0.43769, 0.24358, 0.57657, 0.24358, 0.44324, 0.27961, 0.57935, 0.27961, 0.43769, 0.31295, 0.57935, 0.31295, 0.45157, 0.33907, 0.57102, 0.33907, 0.4488, 0.37151, 0.57657, 0.37151, 0.43769, 0.40033, 0.57657, 0.40033, 0.43213, 0.43367, 0.57102, 0.43367, 0.43491, 0.4643, 0.58324, 0.46495, 0.4398, 0.50156, 0.59046, 0.50123, 0.43917, 0.55042, 0.58617, 0.55043, 0.44267, 0.59123, 0.59442, 0.58988, 0.44467, 0.62891, 0.60417, 0.62891 ],
+					"triangles": [ 20, 24, 5, 21, 13, 2, 2, 7, 43, 3, 7, 2, 7, 3, 6, 3, 4, 6, 4, 5, 6, 37, 25, 2, 5, 24, 30, 5, 12, 20, 42, 6, 5, 6, 42, 7, 42, 43, 7, 42, 5, 40, 42, 41, 43, 2, 43, 41, 42, 40, 41, 5, 38, 40, 40, 39, 41, 40, 38, 39, 41, 39, 2, 38, 36, 39, 36, 38, 5, 37, 2, 39, 39, 36, 37, 34, 36, 5, 36, 35, 37, 36, 34, 35, 37, 35, 29, 34, 5, 32, 32, 5, 30, 34, 33, 35, 33, 31, 35, 34, 32, 33, 32, 30, 33, 33, 30, 31, 30, 28, 31, 28, 29, 31, 35, 31, 29, 30, 24, 28, 29, 28, 27, 28, 26, 27, 25, 37, 29, 29, 27, 25, 28, 24, 26, 27, 26, 25, 26, 24, 25, 24, 22, 25, 22, 23, 25, 23, 2, 25, 20, 14, 16, 18, 19, 21, 20, 16, 18, 18, 17, 19, 13, 19, 17, 18, 16, 17, 17, 16, 15, 24, 20, 22, 22, 21, 23, 21, 2, 23, 22, 20, 21, 20, 18, 21, 21, 19, 13, 20, 12, 14, 13, 17, 15, 11, 2, 13, 10, 12, 5, 16, 14, 15, 13, 15, 12, 15, 14, 12, 12, 10, 13, 13, 10, 11, 2, 11, 9, 10, 5, 8, 5, 0, 8, 10, 8, 11, 11, 8, 9, 9, 8, 1, 8, 0, 1, 2, 9, 1 ],
+					"vertices": [ 2, 5, -0.33, -2.63, 1, 7, -14.42, -2.63, 0, 2, 5, -0.38, 1.89, 1, 7, -14.47, 1.89, 0, 1, 15, 0.5, 17.49, 1, 1, 15, 37.19, 17.72, 1, 1, 15, 37.42, -18.28, 1, 1, 15, 1.09, -18.51, 1, 4, 12, 20.88, -2.94, 0.00196, 13, 13.84, -2.94, 0.00982, 14, 6.79, -2.94, 0.56625, 15, -0.24, -2.94, 0.42196, 4, 12, 20.86, 3.44, 0.00543, 13, 13.81, 3.44, 0.01671, 14, 6.77, 3.44, 0.56612, 15, -0.29, 3.44, 0.41175, 3, 5, 2.52, -2.64, 0.99096, 6, -4.53, -2.64, 0.00904, 7, -11.57, -2.64, 0, 3, 5, 2.5, 1.98, 0.98862, 6, -4.54, 1.98, 0.01137, 7, -11.59, 1.98, 1.0E-5, 2, 5, 6.31, -2.68, 0.62114, 6, -0.73, -2.68, 0.37886, 2, 5, 6.3, 1.94, 0.64764, 6, -0.75, 1.94, 0.35236, 3, 5, 9.67, -2.79, 0.04352, 6, 2.63, -2.79, 0.91262, 7, -4.42, -2.79, 0.04386, 3, 5, 9.66, 1.95, 0.05242, 6, 2.61, 1.95, 0.93554, 7, -4.43, 1.95, 0.01203, 2, 6, 5.15, -2.66, 0.79413, 7, -1.9, -2.66, 0.20587, 3, 5, 12.18, 1.78, 3.1E-4, 6, 5.13, 1.78, 0.88607, 7, -1.91, 1.78, 0.11361, 3, 6, 8.45, -2.59, 0.22276, 8, -5.64, -2.59, 0.00574, 7, 1.4, -2.59, 0.7715, 3, 6, 8.43, 1.73, 0.14351, 8, -5.66, 1.73, 0.00365, 7, 1.39, 1.73, 0.85284, 3, 6, 12.55, -2.33, 0.00475, 8, -1.54, -2.33, 0.1695, 7, 5.51, -2.33, 0.82576, 2, 8, -1.55, 1.77, 0.16418, 7, 5.49, 1.77, 0.83582, 4, 8, 2.66, -2.92, 0.87322, 7, 9.71, -2.92, 0.08833, 9, -4.38, -2.92, 0.03766, 10, -11.43, -2.92, 7.8E-4, 3, 8, 2.65, 2.08, 0.94935, 7, 9.69, 2.08, 0.0354, 9, -4.4, 2.08, 0.01525, 4, 8, 6.66, -2.71, 0.58803, 7, 13.71, -2.71, 0.00168, 9, -0.38, -2.71, 0.39471, 10, -7.43, -2.71, 0.01558, 3, 8, 6.65, 2.19, 0.6193, 9, -0.4, 2.19, 0.37974, 10, -7.44, 2.19, 9.6E-4, 4, 8, 10.36, -2.89, 0.07238, 9, 3.32, -2.89, 0.839, 10, -3.73, -2.89, 0.08826, 11, -10.77, -2.89, 3.5E-4, 4, 8, 10.35, 2.21, 0.0469, 9, 3.3, 2.21, 0.91942, 10, -3.74, 2.21, 0.03065, 11, -10.79, 2.21, 0.00303, 5, 8, 13.26, -2.38, 0.00392, 9, 6.22, -2.38, 0.63938, 10, -0.83, -2.38, 0.35499, 11, -7.87, -2.38, 0.00108, 12, -14.92, -2.38, 6.2E-4, 4, 8, 13.25, 1.92, 0.0024, 9, 6.2, 1.92, 0.68288, 10, -0.84, 1.92, 0.3041, 11, -7.89, 1.92, 0.01062, 4, 9, 9.82, -2.47, 0.06675, 10, 2.77, -2.47, 0.89959, 11, -4.27, -2.47, 0.02811, 12, -11.32, -2.47, 0.00556, 4, 9, 9.8, 2.13, 0.06041, 10, 2.76, 2.13, 0.88226, 11, -4.29, 2.13, 0.0564, 12, -11.33, 2.13, 9.4E-4, 4, 9, 13.02, -2.86, 0.00796, 10, 5.97, -2.86, 0.67162, 11, -1.07, -2.86, 0.29904, 12, -8.11, -2.86, 0.02138, 4, 9, 13, 2.14, 0.00625, 10, 5.96, 2.14, 0.67959, 11, -1.09, 2.14, 0.30734, 12, -8.13, 2.14, 0.00682, 6, 9, 16.72, -3.05, 4.3E-4, 10, 9.68, -3.05, 0.08153, 11, 2.63, -3.05, 0.83045, 12, -4.41, -3.05, 0.08567, 13, -11.46, -3.05, 0.00149, 14, -18.5, -3.05, 4.4E-4, 3, 10, 9.66, 1.95, 0.09144, 11, 2.61, 1.95, 0.87765, 12, -4.43, 1.95, 0.03091, 5, 10, 13.08, -2.94, 0.00563, 11, 6.03, -2.94, 0.61455, 12, -1.01, -2.94, 0.36939, 13, -8.06, -2.94, 0.0081, 14, -15.1, -2.94, 0.00233, 4, 10, 13.13, 2.4, 0.02169, 11, 6.08, 2.4, 0.60139, 12, -0.96, 2.4, 0.37421, 13, -8.01, 2.4, 0.00271, 5, 10, 17.21, -2.75, 4.0E-5, 11, 10.17, -2.75, 0.08251, 12, 3.12, -2.75, 0.8489, 13, -3.92, -2.75, 0.06024, 14, -10.97, -2.75, 0.0083, 5, 10, 17.16, 2.68, 0.00398, 11, 10.11, 2.68, 0.03588, 12, 3.07, 2.68, 0.91872, 13, -3.98, 2.68, 0.04041, 14, -11.02, 2.68, 0.00102, 4, 11, 15.59, -2.75, 0.00513, 12, 8.54, -2.75, 0.2926, 13, 1.5, -2.75, 0.66318, 14, -5.54, -2.75, 0.03909, 3, 12, 8.53, 2.54, 0.27214, 13, 1.48, 2.54, 0.71648, 14, -5.56, 2.54, 0.01138, 5, 11, 20.12, -2.61, 1.0E-5, 12, 13.07, -2.61, 0.02595, 13, 6.03, -2.61, 0.61998, 14, -1.02, -2.61, 0.3523, 15, -8.05, -2.63, 0.00176, 4, 12, 12.91, 2.85, 0.04993, 13, 5.86, 2.85, 0.67621, 14, -1.18, 2.85, 0.26783, 15, -8.24, 2.83, 0.00602, 4, 12, 17.26, -2.52, 0.00453, 13, 10.21, -2.52, 0.0667, 14, 3.17, -2.52, 0.90554, 15, -3.87, -2.54, 0.02323, 4, 12, 17.24, 3.22, 0.01409, 13, 10.19, 3.22, 0.09156, 14, 3.15, 3.22, 0.82679, 15, -3.91, 3.21, 0.06756 ],
+					"hull": 6,
+					"edges": [ 6, 8, 0, 2, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 6, 4, 8, 10, 2, 4, 10, 0 ],
+					"width": 36,
+					"height": 111
+				}
+			}
+		}
+	},
+	{
+		"name": "Food_Stall",
+		"attachments": {
+			"Building": {
+				"Building": { "name": "food stall", "x": 83.7, "y": 4.35, "rotation": -91.42, "width": 335, "height": 226 }
+			}
+		}
+	},
+	{
+		"name": "House",
+		"attachments": {
+			"House_Light": {
+				"House_Light": { "name": "House/House_Light", "x": -29.16, "y": 1.31, "rotation": -91.42, "width": 37, "height": 31 }
+			}
+		}
+	},
+	{
+		"name": "Icecream_Store",
+		"attachments": {
+			"Building": {
+				"Building": { "name": "Icecream_Store/Building", "x": 114.28, "y": -4.19, "rotation": -91.42, "width": 164, "height": 225 }
+			},
+			"Icecream_Light": {
+				"Icecream_Light": { "name": "Icecream_Store/Icecream_Light", "x": 72.22, "y": -6.15, "rotation": -91.42, "width": 136, "height": 53 }
+			}
+		}
+	},
+	{
+		"name": "Music_Store",
+		"attachments": {
+			"Building": {
+				"Building": { "name": "Music_Store/Building", "x": 118.27, "y": -4.79, "rotation": -91.42, "width": 363, "height": 263 }
+			},
+			"Guitar": {
+				"Guitar": { "name": "Music_Store/Guitar", "x": 148.89, "y": -40.56, "rotation": -91.42, "width": 139, "height": 128 }
+			},
+			"Name": {
+				"Name": { "name": "Music_Store/Name", "x": 187.04, "y": 5.51, "rotation": -91.42, "width": 79, "height": 66 }
+			},
+			"speaker": {
+				"speaker": { "name": "Music_Store/speaker", "x": 34.53, "y": 47.3, "rotation": -91.42, "width": 43, "height": 35 }
+			}
+		}
+	},
+	{
+		"name": "Pet_Store",
+		"attachments": {
+			"Building": {
+				"Building": { "name": "Pet_Store/Building", "x": 118.78, "y": -4.31, "rotation": -91.42, "width": 166, "height": 232 }
+			},
+			"L_Pupil": {
+				"L_Pupil": { "name": "Pet_Store/L_Pupil", "x": -1.1, "y": -0.38, "rotation": -91.42, "width": 18, "height": 18 }
+			},
+			"Pet_Light": {
+				"Pet_Light": { "name": "Pet_Store/Pet_Light", "x": 178.42, "y": -39.79, "rotation": -91.42, "width": 80, "height": 55 }
+			},
+			"R_Pupil": {
+				"R_Pupil": { "name": "Pet_Store/R_Pupil", "x": -1, "y": -0.06, "rotation": -91.42, "width": 18, "height": 18 }
+			},
+			"paw 1": {
+				"paw 1": { "name": "Pet_Store/paw 1", "x": 15.14, "y": 51.78, "rotation": -91.42, "width": 37, "height": 32 }
+			},
+			"paw 2": {
+				"paw 2": { "name": "Pet_Store/paw 2", "x": 0.75, "y": -3.16, "width": 37, "height": 32 }
+			}
+		}
+	},
+	{
+		"name": "Truck",
+		"attachments": {
+			"Building": {
+				"Building": { "name": "truck", "x": 155.54, "y": 0.45, "rotation": -91.42, "width": 319, "height": 349 }
+			}
+		}
+	}
+],
+"animations": {
+	"Burger_Icecream_Pet": {
+		"slots": {
+			"Guitar": {
+				"attachment": [
+					{ "time": 0.7, "name": "Guitar" },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.9, "name": "Guitar" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"House_Light": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			},
+			"Icecream_Light": {
+				"twoColor": [
+					{ "light": "fc76ffff", "dark": "42001f", "curve": "stepped" },
+					{ "time": 0.6667, "light": "fff542ff", "dark": "832900", "curve": "stepped" },
+					{ "time": 2.6667, "light": "fc76ffff", "dark": "42001f" }
+				]
+			},
+			"Name": {
+				"attachment": [
+					{ "time": 0.7, "name": "Name" },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.9, "name": "Name" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"Pet_Light": {
+				"attachment": [
+					{ "time": 0.7, "name": "Pet_Light" },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.9, "name": "Pet_Light" },
+					{ "time": 2.6667, "name": null }
+				]
+			},
+			"Purple_belt": {
+				"attachment": [
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2667, "name": "Purple_belt" },
+					{ "time": 0.4, "name": null },
+					{ "time": 2, "name": "Purple_belt" }
+				]
+			}
+		},
+		"bones": {
+			"Building": {
+				"scale": [
+					{ "x": 0.98, "y": 1.02, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 1.002, "y": 0.986, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "x": 0.98, "y": 1.02 }
+				]
+			},
+			"R_Pupil": {
+				"translate": [
+					{ "time": 0.6333 },
+					{ "time": 0.8, "x": -5.38, "y": 0.13, "curve": "stepped" },
+					{ "time": 2.5, "x": -5.38, "y": 0.13 },
+					{ "time": 2.6667 }
+				]
+			},
+			"L_Pupil": {
+				"translate": [
+					{ "time": 0.6333 },
+					{ "time": 0.8, "x": -5.38, "y": 0.13, "curve": "stepped" },
+					{ "time": 2.5, "x": -5.38, "y": 0.13 },
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	},
+	"Chinese_Food_Truck": {
+		"slots": {
+			"Icecream_Light": {
+				"twoColor": [
+					{ "light": "fc76ffff", "dark": "42001f", "curve": "stepped" },
+					{ "time": 0.6667, "light": "fff542ff", "dark": "832900", "curve": "stepped" },
+					{ "time": 2.6667, "light": "fc76ffff", "dark": "42001f" }
+				]
+			},
+			"Name Chinese": {
+				"color": [
+					{ "color": "ffc429ff", "curve": "stepped" },
+					{ "time": 0.3333, "color": "0bffd4ff", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffc429ff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "0bffd4ff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffc429ff" }
+				]
+			},
+			"Name back": {
+				"color": [
+					{ "color": "691c1bff", "curve": "stepped" },
+					{ "time": 0.3333, "color": "0f73ffff", "curve": "stepped" },
+					{ "time": 0.5, "color": "691c1bff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "0f73ffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "691c1bff" }
+				]
+			},
+			"Pet_Light": {
+				"attachment": [
+					{ "time": 0.7, "name": "Pet_Light" },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.9, "name": "Pet_Light" },
+					{ "time": 2.6667, "name": null }
+				]
+			},
+			"Purple_belt": {
+				"attachment": [
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2667, "name": "Purple_belt" },
+					{ "time": 0.4, "name": null },
+					{ "time": 2, "name": "Purple_belt" }
+				]
+			}
+		},
+		"bones": {
+			"Building": {
+				"scale": [
+					{ "x": 0.98, "y": 1.02, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 0.988, "y": 0.997, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "x": 0.98, "y": 1.02 }
+				]
+			},
+			"R_Pupil": {
+				"translate": [
+					{ "time": 0.6333 },
+					{ "time": 0.8, "x": -5.38, "y": 0.13, "curve": "stepped" },
+					{ "time": 2.5, "x": -5.38, "y": 0.13 },
+					{ "time": 2.6667 }
+				]
+			},
+			"L_Pupil": {
+				"translate": [
+					{ "time": 0.6333 },
+					{ "time": 0.8, "x": -5.38, "y": 0.13, "curve": "stepped" },
+					{ "time": 2.5, "x": -5.38, "y": 0.13 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Wreck/ball": {
+				"rotate": [
+					{ "angle": 0.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.47, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 0.81 }
+				]
+			},
+			"Wreck/ball3": {
+				"rotate": [
+					{ "angle": 0.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.47, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 0.81 }
+				]
+			},
+			"Wreck/ball4": {
+				"rotate": [
+					{ "angle": 0.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.47, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 0.81 }
+				]
+			},
+			"Wreck/ball5": {
+				"rotate": [
+					{ "angle": 0.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.47, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 0.81 }
+				]
+			},
+			"Wreck/ball6": {
+				"rotate": [
+					{ "angle": 0.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.47, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 0.81 }
+				]
+			},
+			"Wreck/ball7": {
+				"rotate": [
+					{ "angle": 0.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.47, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 0.81 }
+				]
+			},
+			"Wreck/ball8": {
+				"rotate": [
+					{ "angle": 0.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.47, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 0.81 }
+				]
+			},
+			"Wreck/ball9": {
+				"rotate": [
+					{ "angle": 0.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.47, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 0.81 }
+				]
+			},
+			"Wreck/ball10": {
+				"rotate": [
+					{ "angle": 0.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.47, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 0.81 }
+				]
+			},
+			"Wreck/ball11": {
+				"rotate": [
+					{ "angle": 0.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.47, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 0.81 }
+				]
+			},
+			"Wreck/ball2": {
+				"rotate": [
+					{ "angle": 0.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.47, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 0.81 }
+				]
+			}
+		}
+	},
+	"House_Music_Store": {
+		"slots": {
+			"Guitar": {
+				"attachment": [
+					{ "time": 0.7, "name": "Guitar" },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.9, "name": "Guitar" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"House_Light": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			},
+			"Icecream_Light": {
+				"twoColor": [
+					{ "light": "fc76ffff", "dark": "42001f", "curve": "stepped" },
+					{ "time": 0.6667, "light": "fff542ff", "dark": "832900", "curve": "stepped" },
+					{ "time": 2.6667, "light": "fc76ffff", "dark": "42001f" }
+				]
+			},
+			"Name": {
+				"attachment": [
+					{ "time": 0.7, "name": "Name" },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.9, "name": "Name" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"Pet_Light": {
+				"attachment": [
+					{ "time": 0.7, "name": "Pet_Light" },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.9, "name": "Pet_Light" },
+					{ "time": 2.6667, "name": null }
+				]
+			},
+			"Purple_belt": {
+				"attachment": [
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2667, "name": "Purple_belt" },
+					{ "time": 0.4, "name": null },
+					{ "time": 2, "name": "Purple_belt" }
+				]
+			}
+		},
+		"bones": {
+			"R_Pupil": {
+				"translate": [
+					{ "time": 0.6333 },
+					{ "time": 0.8, "x": -5.38, "y": 0.13, "curve": "stepped" },
+					{ "time": 2.5, "x": -5.38, "y": 0.13 },
+					{ "time": 2.6667 }
+				]
+			},
+			"L_Pupil": {
+				"translate": [
+					{ "time": 0.6333 },
+					{ "time": 0.8, "x": -5.38, "y": 0.13, "curve": "stepped" },
+					{ "time": 2.5, "x": -5.38, "y": 0.13 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Wreck/ball3": {
+				"rotate": [
+					{ "angle": -0.68, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 1.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.68 }
+				]
+			},
+			"Wreck/ball4": {
+				"rotate": [
+					{ "angle": -0.68, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 1.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.68 }
+				]
+			},
+			"Wreck/ball5": {
+				"rotate": [
+					{ "angle": -0.68, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 1.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.68 }
+				]
+			},
+			"Wreck/ball6": {
+				"rotate": [
+					{ "angle": -0.68, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 1.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.68 }
+				]
+			},
+			"Wreck/ball7": {
+				"rotate": [
+					{ "angle": -0.68, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 1.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.68 }
+				]
+			},
+			"Wreck/ball8": {
+				"rotate": [
+					{ "angle": -0.68, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 1.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.68 }
+				]
+			},
+			"Wreck/ball9": {
+				"rotate": [
+					{ "angle": -0.68, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 1.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.68 }
+				]
+			},
+			"Wreck/ball10": {
+				"rotate": [
+					{ "angle": -0.68, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 1.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.68 }
+				]
+			},
+			"Wreck/ball11": {
+				"rotate": [
+					{ "angle": -0.68, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 1.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.68 }
+				]
+			},
+			"Wreck/ball2": {
+				"rotate": [
+					{ "angle": -0.68, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 1.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.68 }
+				]
+			}
+		}
+	}
+}
+}

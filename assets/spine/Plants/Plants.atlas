@@ -1,0 +1,314 @@
+
+Plants.png
+size: 712,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_Tree_1/Tree
+  rotate: false
+  xy: 2, 58
+  size: 181, 235
+  orig: 182, 242
+  offset: 1, 6
+  index: -1
+Back_Tree_2/Tree
+  rotate: false
+  xy: 241, 367
+  size: 147, 165
+  orig: 148, 166
+  offset: 1, 0
+  index: -1
+Bricks_Tree/base
+  rotate: false
+  xy: 185, 2
+  size: 142, 85
+  orig: 147, 94
+  offset: 2, 5
+  index: -1
+Bricks_Tree/tree top
+  rotate: false
+  xy: 2, 295
+  size: 237, 237
+  orig: 237, 237
+  offset: 0, 0
+  index: -1
+Bush/Bush
+  rotate: true
+  xy: 566, 269
+  size: 70, 66
+  orig: 70, 69
+  offset: 0, 3
+  index: -1
+Bush_Blue_Flowers/Bush
+  rotate: false
+  xy: 483, 340
+  size: 72, 89
+  orig: 74, 91
+  offset: 1, 2
+  index: -1
+Bush_Dark/Bush
+  rotate: false
+  xy: 450, 16
+  size: 76, 92
+  orig: 80, 95
+  offset: 2, 3
+  index: -1
+Bush_Long_Leaves/Bush
+  rotate: true
+  xy: 587, 67
+  size: 49, 50
+  orig: 54, 51
+  offset: 3, 1
+  index: -1
+Bush_PetStore/Bush
+  rotate: true
+  xy: 465, 305
+  size: 33, 39
+  orig: 35, 42
+  offset: 1, 3
+  index: -1
+Bush_Pink_Flower/Bush
+  rotate: true
+  xy: 435, 205
+  size: 96, 69
+  orig: 98, 70
+  offset: 1, 1
+  index: -1
+Bush_Red_Flower/Bush
+  rotate: true
+  xy: 587, 118
+  size: 44, 59
+  orig: 46, 60
+  offset: 1, 0
+  index: -1
+Bush_Round/Bush
+  rotate: true
+  xy: 390, 431
+  size: 101, 94
+  orig: 106, 96
+  offset: 2, 2
+  index: -1
+Coconut_Tree/Coconut_Tree
+  rotate: true
+  xy: 329, 13
+  size: 74, 119
+  orig: 74, 119
+  offset: 0, 0
+  index: -1
+Color_Leaves_1/Bush
+  rotate: false
+  xy: 634, 279
+  size: 68, 60
+  orig: 74, 66
+  offset: 3, 4
+  index: -1
+Color_Leaves_2/Bush
+  rotate: false
+  xy: 621, 456
+  size: 83, 76
+  orig: 88, 79
+  offset: 2, 2
+  index: -1
+Flower_Blue_2/Flowers
+  rotate: false
+  xy: 364, 202
+  size: 69, 99
+  orig: 71, 99
+  offset: 1, 0
+  index: -1
+Flower_Bricks_Blue/Flower
+  rotate: false
+  xy: 2, 4
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+Flower_Bricks_Red/Flower
+  rotate: false
+  xy: 71, 4
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+Flower_Bricks_Yellow/Bricks
+  rotate: false
+  xy: 621, 408
+  size: 80, 46
+  orig: 84, 51
+  offset: 2, 2
+  index: -1
+Flower_Bricks_Yellow/Flower
+  rotate: false
+  xy: 634, 225
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+Flower_Hibiscus_Pink/Hibiscus
+  rotate: false
+  xy: 587, 15
+  size: 50, 50
+  orig: 76, 54
+  offset: 25, 4
+  index: -1
+Flower_Hibiscus_Purple/Hibiscus
+  rotate: true
+  xy: 648, 106
+  size: 56, 57
+  orig: 58, 57
+  offset: 1, 0
+  index: -1
+Flower_Pink_2/Flowers
+  rotate: false
+  xy: 486, 443
+  size: 72, 89
+  orig: 73, 89
+  offset: 1, 0
+  index: -1
+Flower_Pink_3/Flowers
+  rotate: true
+  xy: 390, 370
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+Flower_Purple_2/Flowers
+  rotate: false
+  xy: 364, 102
+  size: 71, 98
+  orig: 73, 99
+  offset: 1, 0
+  index: -1
+Flower_Purple_3/Flowers
+  rotate: false
+  xy: 506, 252
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+Flower_Red_2/Flowers
+  rotate: false
+  xy: 557, 357
+  size: 62, 84
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+Flower_Red_3/Flowers
+  rotate: true
+  xy: 354, 303
+  size: 62, 109
+  orig: 63, 110
+  offset: 0, 0
+  index: -1
+Leaves_Pot/Pot
+  rotate: false
+  xy: 506, 205
+  size: 76, 45
+  orig: 85, 50
+  offset: 4, 4
+  index: -1
+Leaves_Pot/Top
+  rotate: false
+  xy: 621, 341
+  size: 74, 65
+  orig: 75, 65
+  offset: 1, 0
+  index: -1
+Long_Leaves_Pot/Pot
+  rotate: false
+  xy: 671, 30
+  size: 33, 33
+  orig: 36, 36
+  offset: 1, 2
+  index: -1
+Long_Leaves_Pot/Top
+  rotate: true
+  xy: 584, 228
+  size: 39, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Music_Pot/Pot
+  rotate: true
+  xy: 639, 25
+  size: 38, 30
+  orig: 41, 33
+  offset: 1, 1
+  index: -1
+Music_Pot/Top
+  rotate: false
+  xy: 140, 25
+  size: 40, 31
+  orig: 42, 31
+  offset: 1, 0
+  index: -1
+Pink_Pot/Orange
+  rotate: true
+  xy: 528, 79
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+Pink_Pot/Pink
+  rotate: true
+  xy: 508, 141
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+Pink_Pot/Pot
+  rotate: true
+  xy: 639, 65
+  size: 39, 40
+  orig: 43, 43
+  offset: 2, 2
+  index: -1
+Pink_Pot/Red
+  rotate: false
+  xy: 584, 164
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+Pink_Pot/White
+  rotate: false
+  xy: 648, 164
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+Pink_Pot/Yellow
+  rotate: true
+  xy: 528, 17
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+Purple_Tree/Base
+  rotate: false
+  xy: 241, 299
+  size: 111, 66
+  orig: 115, 74
+  offset: 2, 5
+  index: -1
+Purple_Tree/Tree
+  rotate: false
+  xy: 185, 89
+  size: 177, 204
+  orig: 177, 204
+  offset: 0, 0
+  index: -1
+Small_Tree_1/Tree
+  rotate: false
+  xy: 437, 110
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+Small_Tree_2/Tree
+  rotate: false
+  xy: 560, 448
+  size: 59, 84
+  orig: 59, 85
+  offset: 0, 0
+  index: -1

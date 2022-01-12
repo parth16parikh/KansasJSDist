@@ -1,0 +1,167 @@
+
+Buildings.png
+size: 1192,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Burger_House/Building
+  rotate: true
+  xy: 722, 3
+  size: 209, 192
+  orig: 215, 199
+  offset: 6, 7
+  index: -1
+Burger_House/Purple_belt
+  rotate: true
+  xy: 1101, 352
+  size: 165, 86
+  orig: 165, 86
+  offset: 0, 0
+  index: -1
+Burger_House/burger top
+  rotate: false
+  xy: 916, 152
+  size: 179, 147
+  orig: 181, 149
+  offset: 1, 1
+  index: -1
+Chinese/Building
+  rotate: false
+  xy: 802, 301
+  size: 297, 216
+  orig: 297, 219
+  offset: 0, 3
+  index: -1
+Chinese/Name
+  rotate: false
+  xy: 802, 276
+  size: 112, 23
+  orig: 113, 23
+  offset: 0, 0
+  index: -1
+Chinese/Name back
+  rotate: false
+  xy: 576, 186
+  size: 116, 26
+  orig: 116, 26
+  offset: 0, 0
+  index: -1
+House/House_Light
+  rotate: true
+  xy: 1097, 152
+  size: 35, 29
+  orig: 37, 31
+  offset: 1, 1
+  index: -1
+Icecream_Store/Building
+  rotate: true
+  xy: 497, 8
+  size: 162, 223
+  orig: 164, 225
+  offset: 1, 1
+  index: -1
+Icecream_Store/Icecream_Light
+  rotate: false
+  xy: 1046, 99
+  size: 134, 51
+  orig: 136, 53
+  offset: 1, 1
+  index: -1
+Music_Store/Building
+  rotate: true
+  xy: 2, 154
+  size: 363, 261
+  orig: 363, 263
+  offset: 0, 2
+  index: -1
+Music_Store/Guitar
+  rotate: true
+  xy: 916, 11
+  size: 139, 128
+  orig: 139, 128
+  offset: 0, 0
+  index: -1
+Music_Store/Name
+  rotate: false
+  xy: 1101, 284
+  size: 79, 66
+  orig: 79, 66
+  offset: 0, 0
+  index: -1
+Music_Store/speaker
+  rotate: true
+  xy: 1097, 189
+  size: 38, 32
+  orig: 43, 35
+  offset: 3, 2
+  index: -1
+Pet_Store/Building
+  rotate: true
+  xy: 265, 6
+  size: 164, 230
+  orig: 166, 232
+  offset: 1, 1
+  index: -1
+Pet_Store/L_Pupil
+  rotate: true
+  xy: 244, 137
+  size: 15, 16
+  orig: 18, 18
+  offset: 2, 1
+  index: -1
+Pet_Store/R_Pupil
+  rotate: true
+  xy: 244, 137
+  size: 15, 16
+  orig: 18, 18
+  offset: 2, 1
+  index: -1
+Pet_Store/Pet_Light
+  rotate: false
+  xy: 1097, 229
+  size: 78, 53
+  orig: 80, 55
+  offset: 1, 1
+  index: -1
+Pet_Store/paw 1
+  rotate: true
+  xy: 1128, 152
+  size: 35, 30
+  orig: 37, 32
+  offset: 1, 1
+  index: -1
+Pet_Store/paw 2
+  rotate: true
+  xy: 1160, 192
+  size: 35, 30
+  orig: 37, 32
+  offset: 1, 1
+  index: -1
+Wreck/Wreck
+  rotate: true
+  xy: 2, 2
+  size: 150, 240
+  orig: 153, 243
+  offset: 0, 3
+  index: -1
+Wreck/ball
+  rotate: true
+  xy: 802, 238
+  size: 36, 109
+  orig: 36, 111
+  offset: 0, 0
+  index: -1
+food stall
+  rotate: true
+  xy: 576, 214
+  size: 303, 224
+  orig: 335, 226
+  offset: 15, 2
+  index: -1
+truck
+  rotate: false
+  xy: 265, 172
+  size: 309, 345
+  orig: 319, 349
+  offset: 6, 4
+  index: -1

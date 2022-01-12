@@ -1,1063 +1,1126 @@
 
 Girl.png
-size: 1972,780
+size: 1972,808
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Bottoms/BLue_Skirt/BLue_Skirt
-  rotate: false
-  xy: 811, 313
+  rotate: true
+  xy: 993, 285
   size: 168, 108
   orig: 168, 108
   offset: 0, 0
   index: -1
 Bottoms/Brown/L_pant
   rotate: false
-  xy: 326, 176
+  xy: 523, 89
   size: 45, 94
   orig: 45, 94
   offset: 0, 0
   index: -1
 Bottoms/Brown/L_pant_2
   rotate: false
-  xy: 1635, 98
+  xy: 1053, 23
   size: 47, 43
   orig: 47, 49
   offset: 0, 0
   index: -1
 Bottoms/Brown/R_pant
   rotate: false
-  xy: 662, 153
+  xy: 1665, 248
   size: 58, 108
   orig: 58, 108
   offset: 0, 0
   index: -1
 Bottoms/Brown/R_pant_2
   rotate: false
-  xy: 763, 31
+  xy: 902, 2
   size: 55, 46
   orig: 55, 47
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit/Body
   rotate: true
-  xy: 380, 297
+  xy: 1411, 360
   size: 81, 120
   orig: 81, 120
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit/L_pant
   rotate: false
-  xy: 1215, 318
+  xy: 572, 304
   size: 42, 102
   orig: 42, 102
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit/L_pant_2
-  rotate: false
-  xy: 1066, 70
+  rotate: true
+  xy: 950, 230
   size: 53, 71
   orig: 53, 73
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit/R_pant
-  rotate: true
-  xy: 892, 82
+  rotate: false
+  xy: 1895, 252
   size: 66, 103
   orig: 66, 103
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit/R_pant_2
-  rotate: false
-  xy: 1266, 70
+  rotate: true
+  xy: 753, 148
   size: 56, 68
   orig: 56, 74
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit2/Body
-  rotate: false
-  xy: 502, 258
+  rotate: true
+  xy: 1533, 360
   size: 81, 120
   orig: 81, 120
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit2/L_pant
-  rotate: true
-  xy: 489, 91
+  rotate: false
+  xy: 1821, 62
   size: 45, 94
   orig: 45, 94
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit2/L_pant_2
   rotate: true
-  xy: 1642, 49
+  xy: 881, 72
   size: 47, 43
   orig: 47, 49
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit2/R_pant
   rotate: false
-  xy: 722, 153
+  xy: 1725, 248
   size: 58, 108
   orig: 58, 108
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit2/R_pant_2
   rotate: false
-  xy: 820, 31
+  xy: 1478, 98
   size: 55, 46
   orig: 55, 47
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit_Skirt/Body
-  rotate: true
-  xy: 397, 2
+  rotate: false
+  xy: 1627, 137
   size: 79, 108
   orig: 79, 108
   offset: 0, 0
   index: -1
 Bottoms/Jumpsuit_Skirt/Skirt
   rotate: false
-  xy: 1710, 170
+  xy: 1415, 443
   size: 127, 114
   orig: 127, 114
   offset: 0, 0
   index: -1
 Frock_Cream/Body
-  rotate: true
-  xy: 782, 172
+  rotate: false
+  xy: 1708, 138
   size: 86, 108
   orig: 86, 108
   offset: 0, 0
   index: -1
 Frock_Cream/L_Sleeve
   rotate: false
-  xy: 735, 88
+  xy: 1135, 119
   size: 45, 63
   orig: 45, 63
   offset: 0, 0
   index: -1
 Frock_Cream/R_Sleeve
-  rotate: false
-  xy: 1146, 91
+  rotate: true
+  xy: 1169, 236
   size: 47, 69
   orig: 47, 69
   offset: 0, 0
   index: -1
 Frock_Cream/Skirt
   rotate: false
-  xy: 1839, 170
+  xy: 1544, 443
   size: 127, 114
   orig: 127, 114
   offset: 0, 0
   index: -1
 Girl/Body
-  rotate: true
-  xy: 201, 167
+  rotate: false
+  xy: 1852, 456
   size: 92, 123
   orig: 92, 123
   offset: 0, 0
   index: -1
 Girl/Face
-  rotate: false
-  xy: 1260, 457
+  rotate: true
+  xy: 1103, 285
   size: 158, 152
   orig: 158, 152
   offset: 0, 0
   index: -1
 Girl/Hair
   rotate: false
-  xy: 616, 263
+  xy: 616, 291
   size: 193, 188
   orig: 194, 188
   offset: 0, 0
   index: -1
 Girl/Hair OL
-  rotate: false
-  xy: 981, 235
+  rotate: true
+  xy: 1889, 153
   size: 97, 81
   orig: 97, 81
   offset: 0, 0
   index: -1
+Girl/Happy
+  rotate: true
+  xy: 1415, 560
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
 Girl/L Hair
-  rotate: false
-  xy: 1494, 195
+  rotate: true
+  xy: 773, 206
   size: 82, 88
   orig: 82, 88
   offset: 0, 0
   index: -1
 Girl/L_Blink_1
   rotate: false
-  xy: 1942, 140
+  xy: 1387, 140
   size: 28, 28
   orig: 28, 29
   offset: 0, 1
   index: -1
 Girl/L_Blink_2
   rotate: false
-  xy: 1229, 592
+  xy: 585, 616
   size: 29, 17
   orig: 29, 17
   offset: 0, 0
   index: -1
 Girl/L_Blink_3
-  rotate: false
-  xy: 599, 69
+  rotate: true
+  xy: 1387, 170
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: -1
 Girl/L_Blink_4
-  rotate: true
-  xy: 1737, 29
+  rotate: false
+  xy: 1221, 202
   size: 30, 32
   orig: 30, 32
   offset: 0, 0
   index: -1
 Girl/L_Brow
-  rotate: false
-  xy: 1420, 599
+  rotate: true
+  xy: 1664, 650
   size: 31, 10
   orig: 33, 13
   offset: 1, 2
   index: -1
 Girl/L_Eyeball
   rotate: true
-  xy: 1215, 291
+  xy: 1696, 39
   size: 25, 26
   orig: 25, 26
   offset: 0, 0
   index: -1
 Girl/L_Hand
   rotate: false
-  xy: 1401, 6
+  xy: 1037, 115
   size: 47, 64
   orig: 47, 64
   offset: 0, 0
   index: -1
 Girl/L_Hi
   rotate: false
-  xy: 1762, 109
+  xy: 1245, 78
   size: 59, 59
   orig: 59, 59
   offset: 0, 0
   index: -1
 Girl/L_Leg
   rotate: false
-  xy: 1362, 142
+  xy: 823, 136
   size: 33, 68
   orig: 35, 71
   offset: 0, 0
   index: -1
 Girl/L_Shoes
-  rotate: true
-  xy: 1900, 461
+  rotate: false
+  xy: 863, 176
   size: 84, 55
   orig: 84, 55
   offset: 0, 0
   index: -1
 Girl/L_Sleeve
-  rotate: false
-  xy: 1066, 2
+  rotate: true
+  xy: 639, 30
   size: 49, 66
   orig: 49, 66
   offset: 0, 0
   index: -1
 Girl/L_White
   rotate: false
-  xy: 585, 273
+  xy: 1665, 32
   size: 29, 32
   orig: 29, 32
   offset: 0, 0
   index: -1
 Girl/L_Wrist
-  rotate: true
-  xy: 1642, 2
+  rotate: false
+  xy: 1102, 2
   size: 45, 46
   orig: 45, 46
   offset: 0, 0
   index: -1
 Girl/Mouth
   rotate: false
-  xy: 1146, 70
+  xy: 1053, 2
   size: 37, 19
   orig: 37, 19
   offset: 0, 0
   index: -1
 Girl/O
   rotate: true
-  xy: 1580, 577
+  xy: 949, 619
   size: 14, 21
   orig: 16, 21
   offset: 2, 0
   index: -1
 Girl/R Hair
   rotate: false
-  xy: 1403, 203
+  xy: 682, 209
   size: 89, 80
   orig: 89, 81
   offset: 0, 0
   index: -1
 Girl/R_Blink_1
-  rotate: true
-  xy: 367, 2
+  rotate: false
+  xy: 523, 64
   size: 41, 23
   orig: 41, 24
   offset: 0, 1
   index: -1
 Girl/R_Blink_2
   rotate: true
-  xy: 952, 270
+  xy: 1948, 765
   size: 41, 21
   orig: 41, 21
   offset: 0, 0
   index: -1
 Girl/R_Blink_3
-  rotate: false
-  xy: 1690, 2
+  rotate: true
+  xy: 1946, 537
   size: 42, 24
   orig: 42, 24
   offset: 0, 0
   index: -1
 Girl/R_Blink_4
-  rotate: true
-  xy: 1535, 151
+  rotate: false
+  xy: 926, 70
   size: 42, 36
   orig: 42, 36
   offset: 0, 0
   index: -1
 Girl/R_Brow
-  rotate: false
-  xy: 722, 69
+  rotate: true
+  xy: 1849, 22
   size: 38, 17
   orig: 41, 19
   offset: 1, 2
   index: -1
 Girl/R_Eyeball
-  rotate: false
-  xy: 1878, 76
+  rotate: true
+  xy: 565, 7
   size: 29, 31
   orig: 29, 31
   offset: 0, 0
   index: -1
 Girl/R_Hand
   rotate: true
-  xy: 512, 582
+  xy: 512, 610
   size: 23, 71
   orig: 23, 71
   offset: 0, 0
   index: -1
 Girl/R_Leg
-  rotate: true
-  xy: 213, 2
+  rotate: false
+  xy: 1797, 363
   size: 39, 83
   orig: 43, 90
   offset: 1, 0
   index: -1
 Girl/R_Shoes
-  rotate: true
-  xy: 1902, 547
+  rotate: false
+  xy: 863, 233
   size: 85, 55
   orig: 85, 55
   offset: 0, 0
   index: -1
 Girl/R_Sleeve
   rotate: true
-  xy: 1127, 162
+  xy: 949, 178
   size: 50, 70
   orig: 50, 70
   offset: 0, 0
   index: -1
 Girl/R_White
-  rotate: true
-  xy: 1026, 25
+  rotate: false
+  xy: 1621, 28
   size: 42, 36
   orig: 42, 36
   offset: 0, 0
   index: -1
 Girl/R_Wrist
-  rotate: false
-  xy: 877, 24
+  rotate: true
+  xy: 982, 63
   size: 45, 53
   orig: 45, 53
   offset: 0, 0
   index: -1
 Girl/Skirt
-  rotate: false
-  xy: 1580, 297
+  rotate: true
+  xy: 1836, 581
   size: 147, 124
   orig: 147, 124
   offset: 0, 0
   index: -1
 Girl/bow
   rotate: false
-  xy: 709, 11
+  xy: 1424, 88
   size: 52, 56
   orig: 52, 57
   offset: 0, 1
   index: -1
-Girl/neck
+Girl/excited
   rotate: true
-  xy: 1900, 424
+  xy: 212, 609
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+Girl/neck
+  rotate: false
+  xy: 1590, 72
   size: 35, 43
   orig: 35, 43
   offset: 0, 0
   index: -1
 Girl/shadow copy
   rotate: false
-  xy: 1679, 655
+  xy: 1453, 683
   size: 221, 123
   orig: 250, 145
   offset: 13, 11
   index: -1
+Girl/thumbs up
+  rotate: true
+  xy: 1158, 184
+  size: 49, 61
+  orig: 65, 62
+  offset: 9, 0
+  index: -1
 Hairs/Blunt_Cut/H_right
-  rotate: false
-  xy: 213, 43
+  rotate: true
+  xy: 1673, 358
   size: 88, 122
   orig: 88, 122
   offset: 0, 0
   index: -1
 Hairs/Blunt_Cut/Hair
   rotate: false
-  xy: 427, 380
+  xy: 427, 408
   size: 187, 199
   orig: 187, 199
   offset: 0, 0
   index: -1
 Hairs/Blunt_Cut/Hair back
   rotate: false
-  xy: 601, 150
+  xy: 1604, 247
   size: 59, 111
   orig: 59, 111
   offset: 0, 0
   index: -1
 Hairs/Bun/Hair
   rotate: true
-  xy: 1455, 593
+  xy: 1229, 621
   size: 185, 222
   orig: 185, 222
   offset: 0, 0
   index: -1
 Hairs/Bun/Hair back
-  rotate: false
-  xy: 981, 318
+  rotate: true
+  xy: 1133, 445
   size: 168, 115
   orig: 168, 115
   offset: 0, 0
   index: -1
 Hairs/Curls/Hair
   rotate: false
-  xy: 212, 400
+  xy: 212, 428
   size: 213, 179
   orig: 213, 179
   offset: 0, 0
   index: -1
 Hairs/Half_Pony/Hair
   rotate: false
-  xy: 2, 389
+  xy: 2, 417
   size: 208, 252
   orig: 208, 252
   offset: 0, 0
   index: -1
 Hairs/Half_Pony/Hair Back
   rotate: false
-  xy: 994, 587
+  xy: 994, 615
   size: 233, 191
   orig: 233, 191
   offset: 0, 0
   index: -1
 Hairs/Pony/Hair
   rotate: false
-  xy: 972, 435
+  xy: 811, 290
   size: 180, 150
   orig: 181, 152
   offset: 0, 1
   index: -1
 Hairs/Pony/Pony
   rotate: true
-  xy: 2, 19
+  xy: 1453, 559
   size: 122, 209
   orig: 122, 209
   offset: 0, 0
   index: -1
 Hairs/Step/Hair
   rotate: false
-  xy: 2, 643
+  xy: 2, 671
   size: 262, 135
   orig: 270, 135
   offset: 8, 0
   index: -1
 Hairs/Step/R_hair
   rotate: false
-  xy: 1229, 611
+  xy: 2, 2
   size: 224, 167
   orig: 224, 167
   offset: 0, 0
   index: -1
 Hairs/Step/top
   rotate: false
-  xy: 1902, 634
+  xy: 515, 262
   size: 55, 144
   orig: 69, 165
   offset: 14, 19
   index: -1
 Hairs/Straight/Hair
-  rotate: true
-  xy: 812, 423
+  rotate: false
+  xy: 949, 455
   size: 182, 158
   orig: 182, 196
   offset: 0, 38
   index: -1
 Hairs/Straight/Hair Back
   rotate: false
-  xy: 616, 453
+  xy: 616, 481
   size: 194, 152
   orig: 194, 191
   offset: 0, 39
   index: -1
+Map
+  rotate: true
+  xy: 812, 442
+  size: 191, 135
+  orig: 191, 135
+  offset: 0, 0
+  index: -1
 PPE/Glasses
-  rotate: false
-  xy: 811, 260
+  rotate: true
+  xy: 228, 48
   size: 139, 51
   orig: 139, 51
   offset: 0, 0
   index: -1
 PPE/Hat
   rotate: true
-  xy: 2, 143
+  xy: 2, 171
   size: 244, 197
   orig: 244, 199
   offset: 0, 2
   index: -1
 PPE/L gloves
-  rotate: true
-  xy: 1199, 146
+  rotate: false
+  xy: 639, 127
   size: 63, 69
   orig: 63, 69
   offset: 0, 0
   index: -1
 PPE/L shoe
   rotate: false
-  xy: 507, 20
+  xy: 1868, 82
   size: 90, 69
   orig: 90, 69
   offset: 0, 0
   index: -1
 PPE/R gloves
   rotate: true
-  xy: 1397, 148
+  xy: 858, 121
   size: 53, 67
   orig: 53, 67
   offset: 0, 0
   index: -1
 PPE/Shoe Back
-  rotate: true
-  xy: 1959, 737
+  rotate: false
+  xy: 949, 442
   size: 41, 11
   orig: 41, 11
   offset: 0, 0
   index: -1
 PPE/Vest
   rotate: false
-  xy: 201, 261
+  xy: 1673, 448
   size: 88, 126
   orig: 88, 126
   offset: 0, 0
   index: -1
 PPE_2/Glasses
   rotate: true
-  xy: 1151, 283
+  xy: 281, 50
   size: 137, 62
   orig: 137, 63
   offset: 0, 1
   index: -1
 PPE_2/Hat
   rotate: false
-  xy: 266, 581
+  xy: 266, 609
   size: 244, 197
   orig: 244, 198
   offset: 0, 1
   index: -1
 PPE_2/L gloves
   rotate: false
-  xy: 1324, 72
+  xy: 710, 69
   size: 59, 67
   orig: 63, 69
   offset: 2, 1
   index: -1
 PPE_2/L_Shoe
-  rotate: false
-  xy: 1151, 214
+  rotate: true
+  xy: 570, 93
   size: 90, 67
   orig: 90, 69
   offset: 0, 1
   index: -1
 PPE_2/R gloves
   rotate: true
-  xy: 1466, 140
+  xy: 570, 38
   size: 53, 67
   orig: 53, 67
   offset: 0, 0
   index: -1
 PPE_2/R_Shoe
-  rotate: true
-  xy: 1080, 221
+  rotate: false
+  xy: 1627, 66
   size: 95, 69
   orig: 95, 69
   offset: 0, 0
   index: -1
 PPE_2/Vest
   rotate: false
-  xy: 291, 272
+  xy: 1763, 448
   size: 87, 126
   orig: 87, 126
   offset: 0, 0
   index: -1
 PPE_3/Back
   rotate: false
-  xy: 1679, 577
+  xy: 1676, 730
   size: 221, 76
   orig: 221, 76
   offset: 0, 0
   index: -1
 PPE_3/Glasses
   rotate: false
-  xy: 1729, 355
+  xy: 201, 189
   size: 144, 66
   orig: 144, 67
   offset: 0, 1
   index: -1
 PPE_3/Hat
   rotate: false
-  xy: 512, 607
+  xy: 512, 635
   size: 239, 171
   orig: 239, 171
   offset: 0, 0
   index: -1
 PPE_3/L gloves
-  rotate: false
-  xy: 1117, 2
+  rotate: true
+  xy: 707, 2
   size: 58, 66
   orig: 58, 66
   offset: 0, 0
   index: -1
 PPE_3/L shoe
   rotate: false
-  xy: 1243, 236
+  xy: 1868, 14
   size: 90, 66
   orig: 90, 66
   offset: 0, 0
   index: -1
 PPE_3/R gloves
   rotate: false
-  xy: 1177, 2
+  xy: 927, 108
   size: 53, 66
   orig: 53, 66
   offset: 0, 0
   index: -1
 PPE_3/R shoe
   rotate: false
-  xy: 981, 166
+  xy: 1724, 69
   size: 95, 67
   orig: 95, 67
   offset: 0, 0
   index: -1
 PPE_3/Vest
   rotate: false
-  xy: 1875, 293
+  xy: 345, 55
   size: 87, 128
   orig: 87, 128
   offset: 0, 0
   index: -1
 PPE_4/Glasses
   rotate: false
-  xy: 1729, 286
+  xy: 347, 185
   size: 144, 67
   orig: 144, 68
   offset: 0, 1
   index: -1
 PPE_4/Hat
   rotate: false
-  xy: 753, 607
+  xy: 753, 635
   size: 239, 171
   orig: 239, 171
   offset: 0, 0
   index: -1
 PPE_4/L gloves
-  rotate: false
-  xy: 1232, 2
+  rotate: true
+  xy: 775, 2
   size: 58, 66
   orig: 58, 66
   offset: 0, 0
   index: -1
 PPE_4/L_Shoe
-  rotate: true
-  xy: 1335, 212
+  rotate: false
+  xy: 590, 223
   size: 90, 66
   orig: 90, 66
   offset: 0, 0
   index: -1
 PPE_4/R gloves
   rotate: false
-  xy: 1292, 2
+  xy: 982, 110
   size: 53, 66
   orig: 53, 66
   offset: 0, 0
   index: -1
 PPE_4/R_Shoe
-  rotate: true
-  xy: 997, 69
+  rotate: false
+  xy: 493, 185
   size: 95, 67
   orig: 95, 67
   offset: 0, 0
   index: -1
 PPE_4/Vest
-  rotate: true
-  xy: 1580, 208
+  rotate: false
+  xy: 434, 55
   size: 87, 128
   orig: 87, 128
   offset: 0, 0
   index: -1
 Skin tones/Tone_2/Face
-  rotate: false
-  xy: 1420, 439
+  rotate: true
+  xy: 1257, 355
   size: 158, 152
   orig: 158, 152
   offset: 0, 0
   index: -1
 Skin tones/Tone_2/L_Hand
-  rotate: false
-  xy: 1433, 74
+  rotate: true
+  xy: 367, 6
   size: 47, 64
   orig: 47, 64
   offset: 0, 0
   index: -1
 Skin tones/Tone_2/L_Hi
-  rotate: false
-  xy: 1823, 109
+  rotate: true
+  xy: 1788, 2
   size: 58, 59
   orig: 58, 59
   offset: 0, 0
   index: -1
 Skin tones/Tone_2/L_Wrist
   rotate: false
-  xy: 1687, 76
+  xy: 1149, 6
   size: 45, 46
   orig: 45, 46
   offset: 0, 0
   index: -1
 Skin tones/Tone_2/R_Hand
-  rotate: false
-  xy: 585, 307
+  rotate: true
+  xy: 590, 198
   size: 23, 71
   orig: 23, 71
   offset: 0, 0
   index: -1
 Skin tones/Tone_2/R_Wrist
-  rotate: false
-  xy: 924, 27
+  rotate: true
+  xy: 1245, 31
   size: 45, 53
   orig: 45, 53
   offset: 0, 0
   index: -1
 Skin tones/Tone_3/Face
   rotate: false
-  xy: 1260, 304
+  xy: 1257, 202
   size: 158, 151
   orig: 158, 151
   offset: 0, 0
   index: -1
 Skin tones/Tone_3/L_Hand
-  rotate: false
-  xy: 1482, 74
+  rotate: true
+  xy: 433, 6
   size: 47, 64
   orig: 47, 64
   offset: 0, 0
   index: -1
 Skin tones/Tone_3/L_Hi
   rotate: false
-  xy: 1883, 109
+  xy: 1306, 78
   size: 57, 59
   orig: 57, 59
   offset: 0, 0
   index: -1
 Skin tones/Tone_3/L_Wrist
   rotate: false
-  xy: 1690, 28
+  xy: 1196, 10
   size: 45, 46
   orig: 45, 46
   offset: 0, 0
   index: -1
 Skin tones/Tone_3/R_Hand
   rotate: true
-  xy: 1243, 211
+  xy: 1023, 260
   size: 23, 71
   orig: 23, 71
   offset: 0, 0
   index: -1
 Skin tones/Tone_3/R_Wrist
   rotate: true
-  xy: 971, 22
+  xy: 1300, 31
   size: 45, 53
   orig: 45, 53
   offset: 0, 0
   index: -1
+Skin tones/Tone_3/thumbs-up
+  rotate: false
+  xy: 1182, 121
+  size: 49, 61
+  orig: 65, 62
+  offset: 9, 0
+  index: -1
 Skin tones/Tone_4/Face
   rotate: false
-  xy: 1420, 285
+  xy: 1676, 576
   size: 158, 152
   orig: 158, 152
   offset: 0, 0
   index: -1
 Skin tones/Tone_4/L_Hand
   rotate: false
-  xy: 1450, 8
+  xy: 771, 82
   size: 47, 64
   orig: 47, 64
   offset: 0, 0
   index: -1
 Skin tones/Tone_4/L_Hi
-  rotate: true
-  xy: 662, 69
+  rotate: false
+  xy: 843, 2
   size: 57, 58
   orig: 57, 58
   offset: 0, 0
   index: -1
 Skin tones/Tone_4/L_Wrist
-  rotate: false
-  xy: 1737, 61
+  rotate: true
+  xy: 1478, 51
   size: 45, 46
   orig: 45, 46
   offset: 0, 0
   index: -1
 Skin tones/Tone_4/R_Hand
   rotate: true
-  xy: 1578, 183
+  xy: 1023, 235
   size: 23, 71
   orig: 23, 71
   offset: 0, 0
   index: -1
 Skin tones/Tone_4/R_Wrist
-  rotate: false
-  xy: 1580, 128
+  rotate: true
+  xy: 1535, 70
   size: 45, 53
   orig: 45, 53
   offset: 0, 0
   index: -1
-Skin tones/Tone_5/Face
+Skin tones/Tone_4/thumbs-up
   rotate: false
-  xy: 1580, 423
+  xy: 1194, 58
+  size: 49, 61
+  orig: 65, 62
+  offset: 9, 0
+  index: -1
+Skin tones/Tone_5/Face
+  rotate: true
+  xy: 201, 257
   size: 158, 152
   orig: 158, 152
   offset: 0, 0
   index: -1
 Skin tones/Tone_5/L_Hand
-  rotate: false
-  xy: 1499, 8
+  rotate: true
+  xy: 499, 6
   size: 47, 64
   orig: 47, 64
   offset: 0, 0
   index: -1
 Skin tones/Tone_5/L_Hi
   rotate: false
-  xy: 650, 9
+  xy: 1365, 79
   size: 57, 58
   orig: 57, 58
   offset: 0, 0
   index: -1
 Skin tones/Tone_5/L_Wrist
-  rotate: false
-  xy: 1784, 61
+  rotate: true
+  xy: 1526, 23
   size: 45, 46
   orig: 45, 46
   offset: 0, 0
   index: -1
 Skin tones/Tone_5/R_Hand
-  rotate: false
-  xy: 1121, 70
+  rotate: true
+  xy: 1096, 260
   size: 23, 71
   orig: 23, 71
   offset: 0, 0
   index: -1
 Skin tones/Tone_5/R_Wrist
-  rotate: true
-  xy: 1580, 81
+  rotate: false
+  xy: 959, 8
   size: 45, 53
   orig: 45, 53
   offset: 0, 0
   index: -1
+Skin tones/Tone_5/thumbs-up
+  rotate: false
+  xy: 1233, 139
+  size: 49, 61
+  orig: 65, 62
+  offset: 9, 0
+  index: -1
 Skin tones/Tone_6/Face
   rotate: false
-  xy: 1740, 423
+  xy: 355, 254
   size: 158, 152
   orig: 158, 152
   offset: 0, 0
   index: -1
 Skin tones/Tone_6/L_Hand
   rotate: false
-  xy: 1531, 74
+  xy: 1086, 115
   size: 47, 64
   orig: 47, 64
   offset: 0, 0
   index: -1
 Skin tones/Tone_6/L_Hi
   rotate: true
-  xy: 601, 91
+  xy: 820, 62
   size: 57, 59
   orig: 57, 59
   offset: 0, 0
   index: -1
 Skin tones/Tone_6/L_Wrist
   rotate: false
-  xy: 1831, 61
+  xy: 1574, 22
   size: 45, 46
   orig: 45, 46
   offset: 0, 0
   index: -1
 Skin tones/Tone_6/R_Hand
   rotate: true
-  xy: 662, 128
+  xy: 1096, 235
   size: 23, 71
   orig: 23, 71
   offset: 0, 0
   index: -1
 Skin tones/Tone_6/R_Wrist
   rotate: false
-  xy: 1595, 26
+  xy: 1006, 8
   size: 45, 53
   orig: 45, 53
   offset: 0, 0
   index: -1
-Tops/Blue_Top/Body
+Skin tones/Tone_6/thumbs-up
   rotate: false
-  xy: 502, 138
+  xy: 1284, 139
+  size: 49, 61
+  orig: 65, 62
+  offset: 9, 0
+  index: -1
+Tops/Blue_Top/Body
+  rotate: true
+  xy: 1852, 357
   size: 97, 118
   orig: 97, 118
   offset: 0, 0
   index: -1
 Tops/Blue_Top/L_Sleeve
-  rotate: false
-  xy: 1347, 4
+  rotate: true
+  xy: 1023, 181
   size: 52, 66
   orig: 54, 66
   offset: 0, 0
   index: -1
 Tops/Blue_Top/R_Sleeve
   rotate: false
-  xy: 212, 584
-  size: 49, 57
+  xy: 1335, 139
+  size: 50, 61
   orig: 50, 61
-  offset: 1, 4
+  offset: 0, 0
   index: -1
 Tops/Gray/Body
-  rotate: false
-  xy: 892, 150
+  rotate: true
+  xy: 1785, 268
   size: 87, 108
   orig: 87, 108
   offset: 0, 0
   index: -1
 Tops/Gray/L_Sleeve
-  rotate: false
-  xy: 1385, 72
+  rotate: true
+  xy: 299, 2
   size: 46, 66
   orig: 46, 66
   offset: 0, 0
   index: -1
 Tops/Gray/R_Sleeve
-  rotate: false
-  xy: 599, 2
+  rotate: true
+  xy: 1091, 184
   size: 49, 65
   orig: 49, 65
   offset: 0, 0
   index: -1
 Tops/Gray/Skirt
-  rotate: true
-  xy: 1154, 422
+  rotate: false
+  xy: 1250, 515
   size: 163, 104
   orig: 163, 104
   offset: 0, 0
   index: -1
 Tops/Mustard/Body
-  rotate: true
-  xy: 782, 79
+  rotate: false
+  xy: 1796, 158
   size: 91, 108
   orig: 91, 108
   offset: 0, 0
   index: -1
 Tops/Mustard/L_Sleeve
-  rotate: false
-  xy: 1548, 9
+  rotate: true
+  xy: 1037, 68
   size: 45, 63
   orig: 45, 63
   offset: 0, 0
   index: -1
 Tops/Mustard/R_Sleeve
-  rotate: true
-  xy: 1195, 97
+  rotate: false
+  xy: 704, 138
   size: 47, 69
   orig: 47, 69
   offset: 0, 0
   index: -1
 Tops/Orange/Body
-  rotate: false
-  xy: 397, 83
+  rotate: true
+  xy: 1417, 146
   size: 90, 119
   orig: 90, 119
   offset: 0, 0
   index: -1
 Tops/Orange/L_Sleeve
   rotate: false
-  xy: 1651, 143
+  xy: 1102, 50
   size: 44, 63
   orig: 44, 63
   offset: 0, 0
   index: -1
 Tops/Orange/R_Sleeve
-  rotate: false
-  xy: 1270, 140
+  rotate: true
+  xy: 228, 2
   size: 44, 69
   orig: 44, 69
   offset: 0, 0
   index: -1
 Tops/Purple/Body
-  rotate: true
-  xy: 380, 204
+  rotate: false
+  xy: 1417, 238
   size: 91, 120
   orig: 91, 120
   offset: 0, 0
   index: -1
 Tops/Purple/L_Sleeve
-  rotate: true
-  xy: 1697, 124
+  rotate: false
+  xy: 1148, 54
   size: 44, 63
   orig: 44, 63
   offset: 0, 0
   index: -1
 Tops/Purple/R_Sleeve
-  rotate: false
-  xy: 1316, 141
+  rotate: true
+  xy: 639, 81
   size: 44, 69
   orig: 44, 69
   offset: 0, 0
   index: -1
 Tops/Yellow/Body
   rotate: false
-  xy: 303, 45
+  xy: 1510, 238
   size: 92, 120
   orig: 92, 120
   offset: 0, 0
   index: -1
 Tops/Yellow/R_Sleeve
   rotate: false
-  xy: 1078, 143
+  xy: 1899, 730
   size: 47, 76
   orig: 47, 76
   offset: 0, 0
   index: -1
 Tops/Yellow/R_Sleeve 2
   rotate: true
-  xy: 303, 2
+  xy: 1724, 26
   size: 41, 62
   orig: 41, 66
+  offset: 0, 0
+  index: -1
+remote
+  rotate: false
+  xy: 1538, 117
+  size: 87, 119
+  orig: 87, 119
   offset: 0, 0
   index: -1
